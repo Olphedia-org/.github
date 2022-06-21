@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ## 🙋‍♀️ A short introduction - what is our organization all about?
 Olphedia is a French communitarian Discord Server which has been created during the first containment in 2020. 
