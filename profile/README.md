@@ -3,7 +3,7 @@
 ## 🙋‍♀️ A short introduction - what is our organization all about?
 Olphedia is a French communitarian Discord Server which has been created during the first containment in 2020. 
 
-##🌈 Contribution guidelines - how can the community get involved?
+## 🌈 Contribution guidelines - how can the community get involved?
 
 The community can contribute to our open sources projects. We have a lot of Discord bots which need to be improved.
 We thank all the peoples which contribute to Olphedia's projects. If you want to help us, you can join our Discord Server
